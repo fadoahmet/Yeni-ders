@@ -27,7 +27,6 @@ public class miniprimenumberproject {
         } else {
             System.out.println("Sayı asal değildir");
         }
-
     }
 
 }
