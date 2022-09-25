@@ -4,9 +4,9 @@ public class friendsNumbers {
     public static void main(String[] args) {
         // 220-284
         var scanner = new Scanner(System.in);
-        System.out.print("enter a number: ");
+        System.out.print("enter a number:");
         int number1 = scanner.nextInt();
-        System.out.print("enter a number: ");
+        System.out.print("enter another number:");
         int number2 = scanner.nextInt();
         scanner.close();
         int total1 = 0;
